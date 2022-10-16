@@ -1,0 +1,150 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/59/19/61/591961e720c81a1280ac08393a0c7877.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color:
+}
+
+table {
+  width: 15%;
+}
+
+th {
+  height: 1000px;
+}
+
+td {
+  font-size: 8em;
+}
+
+h1,h3 {
+  font-size: 4.5em;
+}
+
+li {
+  font-size: 2em;
+  width: 18%;
+  text-align: left;
+  background-color: #42d1dbb8
+}
+
+button {
+  font-size: 30px;
+  background-color: #42d1db;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS (Cascatin Style Sheet) Oct Jumpstart */
+
+/* Css - programing language that tells the brower how to display the html */
+
+/* Linking external css file */
+/* add within the head tag of the html file
+<link rel="stylesheet" href="applePie.css"> */
+
+/* CSS rule  */
+ /* selector {
+     property: value;
+     property: value;
+ }
+
+ property: value ---> declaration */
+
+/* Element selectors */
+ /* based on html tag */
+/* button {
+   background-color: antiquewhite;
+} */
+
+/* h1 {
+   color: green
+}
+
+h3 {
+   color: green
+} */
+
+
+/* Grouping selectors */
+  /* select all the html elements with same declaration */
+
+/* h1, h3 {
+   color: green;
+} */
+
+/* Id selectors */
+/* denotes css declarations for a single element */
+/* #beige {
+   background-color: rgba(222, 213, 173, o.6);
+} */
+
+
+/* Class selectors */
+/* denotes css declarations for multiple elements */
+/* .box {
+   /* specify the style, width, and color  */
+   /* border-style: outset;
+   border-width: 4px;
+   border-color: #105410;
+} */
+
+/* Universal selectors */
+/* selects all html elemnt */
+/* * {
+   text-align: center;
+} */
+
+/* Pseudo-class selectors */
+/* keywords added to the selector to specify a declaration for what state the selector is in  */
+ /* selecotr:pseudo-class {
+     property: value;
+ } */
+ /* button:hover {
+     color: antiquewhite;
+     background-color: #105410;
+     font-size: 30px;
+ } */
+
+  /* Changing the font on html elemnts */
+  /* Go to google fonts */
+  /* Select a font style */
+  /* select view all styles */
+  /* select the + to add the style */
+  /* under the selected families, copy the link and css rules */
+  /* h1, h3 button {
+      font-family: 'Lucida Sans', cursive;
+  } */
+
+  /* changing built in  styling */
+
+  /* hr {
+      border: none;
+  }
+
+  table {
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  .line {
+      list-style-type: none;
+  } */
